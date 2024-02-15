@@ -1,6 +1,6 @@
 function Home() {
     return (
-        <quote>"Grandes coisas vêm do trabalho duro e perseverança, sem desculpas."</quote>
+        <h1>"Grandes coisas vêm do trabalho duro e perseverança, sem desculpas."</h1>
     );
 }
 
